@@ -1,0 +1,13 @@
+-~~~**`-`-* Python OSX Voice Alarm Clock *-'-'**~~~-
+
+Author:  Brian "bojo" Jones
+Email:  mojobojo@gmail.com
+
+Reports the designated weather and Google calendar events for the day
+using the builtin OSX speech service.
+
+Ideally run this in a crontab as an alarm clock!
+
+Requires the following python modules:
+  - Google's gdata : http://code.google.com/p/gdata-python-client/downloads/list
+  - pywapi : http://code.google.com/p/python-weather-api/
